@@ -1,19 +1,4 @@
 
-getgenv().host = "KimberlyEllis57" 
-getgenv().prefix = "."
-getgenv().sentence = "Bill on top" 
-getgenv().fps = 10
-getgenv().CrewID = "123456" 
-getgenv().notifications = false -- example "drop" alts says "starting drop"
-getgenv().autosetup = true
-getgenv().lowgfxhost = false
-getgenv().destroycash = false
-getgenv().loadstringhost = "pastebin/github" -- only the github or pastebin
-getgenv().loadstringalts = "pastebin/github"
-getgenv().Alts = { --To add your alts use the same format | EXAMPLE: Alt3 = altId, etc etc 
-    Alt1 = 324323880,
-    Alt2 = 123456789,
-}
 
 
 
